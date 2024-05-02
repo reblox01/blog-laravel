@@ -64,11 +64,11 @@
         </span>
 
         <h2 class="text-4xl font-bold py-10">
-            Recent Posts
+            Articles récents
         </h2>
 
         <p class="m-auto w-4/5 text-gray-500">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque exercitationem saepe enim veritatis, eos temporibus quaerat facere consectetur qui.
+            Nos articles populaires de cette semaine toutes catégories confondues
         </p>
     </div>
 
@@ -76,17 +76,34 @@
         <div class="flex bg-yellow-700 text-gray-100 pt-10">
             <div class="m-auto pt-4 pb-16 sm:m-auto w-4/5 block">
                 <span class="uppercase text-xs">
-                    PHP
+                    Blogs
                 </span>
 
                 <h3 class="text-xl font-bold py-10">
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas necessitatibus dolorum error culpa laboriosam. Enim voluptas earum repudiandae consequuntur ad? Expedita labore aspernatur facilis quasi ex? Nemo hic placeat et?
-                </h3>
+                Vous souvenez-vous que bloguer était autrefois un passe-temps où les gens écrivaient sur leurs amis, la mode, les animaux de compagnie et les vacances en famille ? Je le sais, car à 12 ans, mon cochon d'Inde a attiré plus d'attention en ligne que dans la vraie vie..
+ </h3>
 
                 <a 
                     href=""
                     class="uppercase bg-transparent border-2 border-gray-100 text-gray-100 text-xs font-extrabold py-3 px-5 rounded-3xl">
-                    Find Out More
+                    En savoir plus
+                </a>
+            </div>
+        </div>
+        <div class="flex bg-yellow-700 text-gray-100 pt-10">
+            <div class="m-auto pt-4 pb-16 sm:m-auto w-4/5 block">
+                <span class="uppercase text-xs">
+                    Programmation
+                </span>
+
+                <h3 class="text-xl font-bold py-10">
+                Il y a beaucoup de choses que je tiens pour acquises dans ma vie, et le fonctionnement normal du gouvernement américain en fait partie.  Au cours de mes 46 années d’existence, j’ai vécu sous neuf présidents différents.  Le premier dont je me souviens est Carter..
+ </h3>
+
+                <a 
+                    href=""
+                    class="uppercase bg-transparent border-2 border-gray-100 text-gray-100 text-xs font-extrabold py-3 px-5 rounded-3xl">
+                    En savoir plus
                 </a>
             </div>
         </div>
