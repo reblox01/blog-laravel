@@ -25,12 +25,12 @@
                     </a>
                 </div>
                 <nav class="space-x-4 text-gray-300 text-sm sm:text-base">
-                    <a class="no-underline hover:underline" href="/">Home</a>
+                    <a class="no-underline hover:underline" href="/">Accueil</a>
                     <a class="no-underline hover:underline" href="/blog">Blog</a>
                     @guest
-                        <a class="no-underline hover:underline" href="{{ route('login') }}">{{ __('Login') }}</a>
+                        <a class="no-underline hover:underline" href="{{ route('login') }}">{{ __('Se connecter') }}</a>
                         @if (Route::has('register'))
-                            <a class="no-underline hover:underline" href="{{ route('register') }}">{{ __('Register') }}</a>
+                            <a class="no-underline hover:underline" href="{{ route('register') }}">{{ __('Registre') }}</a>
                         @endif
                     @else
                         <span>{{ Auth::user()->name }}</span>
@@ -38,7 +38,7 @@
                         <a href="{{ route('logout') }}"
                            class="no-underline hover:underline"
                            onclick="event.preventDefault();
-                                document.getElementById('logout-form').submit();">{{ __('Logout') }}</a>
+                                document.getElementById('logout-form').submit();">{{ __('Se déconnecter') }}</a>
                         <form id="logout-form" action="{{ route('logout') }}" method="POST" class="hidden">
                             {{ csrf_field() }}
                         </form>

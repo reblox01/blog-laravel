@@ -8,7 +8,7 @@
             <ul class="py-4 sm:text-s pt-4 text-gray-400">
                 <li class="pb-1">
                     <a href="/">
-                        Home
+                        Accueil
                     </a>
                 </li>
                 <li class="pb-1">
@@ -18,12 +18,12 @@
                 </li>
                 <li class="pb-1">
                     <a href="/login">
-                        Login
+                        Se Connecter
                     </a>
                 </li>
                 <li class="pb-1">
                     <a href="/register">
-                        Register
+                        Registre
                     </a>
                 </li>
             </ul>
@@ -31,28 +31,28 @@
 
         <div>
             <h3 class="text-l sm:font-bold text-gray-100">
-                Find Us
+                Trouve nous
             </h3>
 
             <ul class="py-4 sm:text-s pt-4 text-gray-400">
                 <li class="pb-1">
                     <a href="/">
-                        What we do
+                        Instagram
                     </a>
                 </li>
                 <li class="pb-1">
                     <a href="/">
-                        Address
+                        Facebook
                     </a>
                 </li>
                 <li class="pb-1">
                     <a href="/">
-                        Phone
+                        Twitter
                     </a>
                 </li>
                 <li class="pb-1">
                     <a href="/">
-                        Contact
+                        LinkedIn
                     </a>
                 </li>
             </ul>
@@ -60,34 +60,34 @@
 
         <div>
             <h3 class="text-l sm:font-bold text-gray-100">
-                Latest posts
+                Derniers articles
             </h3>
 
             <ul class="py-4 sm:text-s pt-4 text-gray-400">
                 <li class="pb-1">
                     <a href="/">
-                        Why we love tech
+                        Emails Marketing
                     </a>
                 </li>
                 <li class="pb-1">
                     <a href="/">
-                        Why we love design
+                        PHP
                     </a>
                 </li>
                 <li class="pb-1">
                     <a href="/">
-                        Why to use Laravel
+                        4 façons d'augmenter le trafic de votre blog
                     </a>
                 </li>
                 <li class="pb-1">
                     <a href="/">
-                        Why PHP is the best
+                        Le blogueur du livre
                     </a>
                 </li>
             </ul>
         </div>
     </div>
     <p class="w-25 w-4/5 pb-3 m-auto text-xs text-gray-100 pt-6">
-        Copyright 2024. All Rights Reserved
+        Copyright 2024. Tous droits réservés
     </p>
 </footer>
